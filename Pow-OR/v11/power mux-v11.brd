@@ -120,7 +120,6 @@
 <wire x1="0" y1="12.7" x2="0" y2="0" width="0" layer="20"/>
 <text x="4.572" y="3.937" size="0.6096" layer="22" rot="MR180" align="center-right">GND</text>
 <text x="12.827" y="9.906" size="0.4064" layer="22" rot="MR0">LED</text>
-<text x="12.7" y="3.048" size="0.6096" layer="22" rot="MR0">Mark Richards</text>
 <text x="12.319" y="5.842" size="0.6096" layer="22" rot="MR0">Pow-OR v11</text>
 </plain>
 <libraries>

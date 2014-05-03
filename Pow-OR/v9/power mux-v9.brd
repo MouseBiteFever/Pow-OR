@@ -120,7 +120,6 @@
 <wire x1="0" y1="12.7" x2="0" y2="0" width="0" layer="20"/>
 <text x="4.699" y="3.81" size="0.6096" layer="22" rot="MR180" align="center-right">GND</text>
 <text x="14.859" y="9.906" size="0.4064" layer="22" rot="MR0">LED</text>
-<text x="14.859" y="3.302" size="0.6096" layer="22" rot="MR0">Mark Richards</text>
 <text x="14.478" y="6.096" size="0.6096" layer="22" rot="MR0">Power Mux v9</text>
 </plain>
 <libraries>
