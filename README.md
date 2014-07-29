@@ -8,7 +8,7 @@ This will be a repository for the Eagle CAD design files of the Pow-OR power mul
 <br><br>
 A few video demonstrations of the Pow-OR board on can be foud on youtube at http://www.youtube.com/channel/UCmLNvzKj7SQ2D3ENkpwOFEA
 <br><br>
-I have put a very very small number of these (5) up for sale on tindie. I have more chips on order from digikey and will try to get them made as soon as possible.<br>
+I have put a small number of these up for sale on Tindie, and I just added 10 more as of 7/28/14. I'll be updating the stock as I get chips in and assemble boards.<br>
 https://www.tindie.com/products/MouseBiteFever/pow-or-v131/
 <br><br>
 
